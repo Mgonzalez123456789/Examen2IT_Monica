@@ -38,6 +38,11 @@ namespace Examen2
                 errorProvider1.SetError(ContraseñaTextBox2, "Ingrese una contraseña");
                 return;
             }
+            errorProvider1.Clear();
+
+            Menu MenuFormulario = new Menu();
+            this.Hide();
+            MenuFormulario.Show();
         }
     }
 }
