@@ -78,6 +78,9 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TicketVB.cs" />
+    <Compile Include="Usuario.cs" />
+    <Compile Include="UsuarioDB.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
