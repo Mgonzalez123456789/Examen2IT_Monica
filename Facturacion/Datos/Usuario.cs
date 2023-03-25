@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Entidades
+namespace Datos
 {
     public class Usuario
     {
@@ -32,5 +32,4 @@ namespace Entidades
             EstadoActivo = estadoActivo;
         }
     }
-
 }

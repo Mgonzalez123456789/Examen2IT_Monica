@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Examen2
 {
-    public partial class Menu : Form
+    public partial class Ticket : Form
     {
-        public Menu()
+        public Ticket()
         {
             InitializeComponent();
-        }
-
-        private void loginToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
